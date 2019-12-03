@@ -1,0 +1,10 @@
+C:\Users\Taha-PC\source\repos\TahaApplocation\bin\Debug\TahaApplocation.exe.config
+C:\Users\Taha-PC\source\repos\TahaApplocation\bin\Debug\TahaApplocation.exe
+C:\Users\Taha-PC\source\repos\TahaApplocation\bin\Debug\TahaApplocation.pdb
+C:\Users\Taha-PC\source\repos\TahaApplocation\obj\Debug\TahaApplocation.csprojAssemblyReference.cache
+C:\Users\Taha-PC\source\repos\TahaApplocation\obj\Debug\TahaApplocation.Form1.resources
+C:\Users\Taha-PC\source\repos\TahaApplocation\obj\Debug\TahaApplocation.Properties.Resources.resources
+C:\Users\Taha-PC\source\repos\TahaApplocation\obj\Debug\TahaApplocation.csproj.GenerateResource.cache
+C:\Users\Taha-PC\source\repos\TahaApplocation\obj\Debug\TahaApplocation.exe
+C:\Users\Taha-PC\source\repos\TahaApplocation\obj\Debug\TahaApplocation.pdb
+C:\Users\Taha-PC\source\repos\TahaApplocation\obj\Debug\TahaApplocation.LoginForm.resources
